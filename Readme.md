@@ -32,7 +32,7 @@ http://ec2-18-204-230-137.compute-1.amazonaws.com:42000/
 
 ## Pantallazos de Ejecución
 ### Función ArcoTangente
-![](img/FotoAtan.PNG)
+![](img/FotoAtan.png)
 
 ### Función Seno
-![](img/FotoSin.PNG)
+![](img/FotoSin.png)
